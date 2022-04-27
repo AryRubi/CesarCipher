@@ -1,6 +1,6 @@
-# CesarCipher
-Python Cesar's Cipher made from scratch by me
-Python brute force Cesar's Cipher made from scratch too (gives all possibilities) 
+# PythonProjects
+These are the projects in Python that I've done from scratch:
 
-
-Almost all the notes are in spanish given that was a personal/pleasure project lol
+Python Cesar's Cipher 
+Python brute force Cesar's Cipher 
+Guess the number (from given range) 
