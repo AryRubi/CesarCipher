@@ -1,6 +1,6 @@
 Hi everyone,
 
-I've made this "PokeFinder" that gives you the best top 10 pokemons depending on the parameters.
+I've made this "PokeFinder" that gives you the top 10 pokemons depending on the parameters.
 
 This is done by extracting the pokemon's information from the json file (pokedex.json), inputting the data in a sql database and then querying the database for the specifics given by the end user.
 
